@@ -8,7 +8,7 @@
 
 ### Currently learning
 
-<code>iOS</code> and <code>SwiftUI</code> in Apple Developer Academy @ POSTECH
+<code>iOS, macOS</code> with <code>SwiftUI</code> in <code>Apple Developer Academy @ POSTECH</code>
 
 <code>FastAPI</code> for my personal backend server
 
