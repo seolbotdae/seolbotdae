@@ -1,10 +1,20 @@
+<div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hututi's%20Nest&descAlignY=51&descAlign=62)
 
-## Develop anything what I need
+### Develop anything what I need
 
-I'm currently studying iOS and SwiftUI
+<br><br>
 
-Additionally, learning basics of FastAPI.
+### Currently learning
+
+<code>iOS</code> and <code>SwiftUI</code> in Apple Developer Academy @ POSTECH
+
+<code>FastAPI</code> for my personal backend server
+
+<code>Algorithm</code> with backjoon online judge
+
+<br><br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseolbotdae%2Fseolbotdae&count_bg=%23FFC17E&title_bg=%23FF8200&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -36,3 +46,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
