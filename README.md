@@ -1,12 +1,12 @@
-### Hi there 👋
-
---- 
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hututi's%20Nest&descAlignY=51&descAlign=62)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseolbotdae%2Fseolbotdae&count_bg=%23FFC17E&title_bg=%23FF8200&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seolbotdae&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whseol0203)](https://solved.ac/whseol0203/)
+
+# Skills
 
 <!--
 **seolbotdae/seolbotdae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
