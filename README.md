@@ -8,11 +8,7 @@
 
 ### Currently learning
 
-<code>iOS, macOS</code> with <code>SwiftUI</code> in Apple Developer Academy @ POSTECH
-
-<code>FastAPI</code> for my personal backend server
-
-<code>Algorithm</code> with backjoon online judge
+<code>Next.js</code> 에 관심을 가지고 공부하고 있습니다
 
 <br><br>
 
